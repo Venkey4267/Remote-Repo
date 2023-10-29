@@ -3,4 +3,5 @@ abc
 This is how git ignore works
 #ignore ALL .tx files
 *.tx
+newfile.tx
 
